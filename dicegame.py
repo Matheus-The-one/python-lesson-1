@@ -28,5 +28,5 @@ if __name__ == '__main__':
             print('You got ', dice_value)
             choice = roll_dice()
         else:
-            print('Wrong Input !!! Enter again Yes/No')
+            print('არასწორად მიუთითე ბრაძანება')
             choice = roll_dice()
